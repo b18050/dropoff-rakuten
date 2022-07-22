@@ -1,0 +1,14 @@
+PUT  http://localhost:3001/api/markers/60a0244892879f36b23dbbeb
+content-type: application/json
+
+{
+    "coordinate": {
+        "latitude": 10.0001,
+        "longitude":21.22
+    },
+    "title":"Riad i",
+    "description": "Ye h Delhi Meri jaan",
+    "landmark": "C6 Shivaji Park, New Delhi",
+    "pincode": 134578,
+    "amount": 200
+}

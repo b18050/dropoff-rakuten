@@ -1,0 +1,1 @@
+DELETE   http://localhost:3001/api/markers/60a6b4fba29c16db6b654ded

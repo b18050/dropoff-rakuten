@@ -1,0 +1,16 @@
+POST http://localhost:3001/api/markers
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNoYW5kYW4iLCJpZCI6IjYwYTE0Njk5ZDlkOGU4MmY3MmY0N2ZhYSIsImlhdCI6MTYyMTE4NTA4MX0.57KnsYKYq7zxU7dcMZpuXPhWM0yoUcx6pxCD8Y1Mi6w
+
+{
+    "coordinate": {
+        "latitude": 14.622281662,
+        "longitude":82.441202113
+    },
+    "title": "Roadsr",
+    "description": "Ye h Bihar Meri jaan",
+    "landmark": "C6 Shivaji Park, New Delhi",
+    "pincode": 175105,
+    "amount": 5000,
+    "userId": "60a14699d9d8e82f72f47faa"
+}

@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/users
+content-type: application/json
+
+{
+    "username": "chandan",
+    "firstname": "Arto",
+    "lastname": "Hellas",
+    "aadhaar": 12876234566,
+    "email": "abc@gmail.com",
+    "address": "C6-Shivaji Park, NewDelhi 824539",
+    "password": "sekred"
+}
